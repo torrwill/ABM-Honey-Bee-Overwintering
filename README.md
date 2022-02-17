@@ -3,7 +3,7 @@
 *ABM-Honey-Bee-Overwintering* is an agent-based model written in Python 3.x, that simulates the expected survival of honey bees during the overwintering process.
 
 ## Preview of Model
-What are Honey Bee Cluster Looks Like:
+What are Honey Bee Cluster Looks Like: <br>
 ![Cluster](images/cluster.png)
 
 Simulation:
